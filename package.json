@@ -1,0 +1,19 @@
+{
+  "name": "ivy.ru",
+  "date": "2018.02.21",
+  "version": "2.1.19",
+  "description": "STB based application for IPTV-devices. All content from site ivy.ru.",
+  "author": {
+    "name": "FUZZ",
+    "email": "fuzz_apps1836@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sta1kerApps/ivy.git"
+  },
+  "dependencies": {},
+  "config": {
+    "backgroundColor":"#eda944",
+    "icons":"icons"
+  }
+}
